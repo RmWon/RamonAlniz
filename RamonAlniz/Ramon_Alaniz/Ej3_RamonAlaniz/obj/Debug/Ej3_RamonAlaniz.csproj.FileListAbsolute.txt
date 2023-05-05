@@ -1,0 +1,7 @@
+C:\Users\Dell Inspiron\source\repos\Ej3_RamonAlaniz\Ej3_RamonAlaniz\bin\Debug\Ej3_RamonAlaniz.exe.config
+C:\Users\Dell Inspiron\source\repos\Ej3_RamonAlaniz\Ej3_RamonAlaniz\bin\Debug\Ej3_RamonAlaniz.exe
+C:\Users\Dell Inspiron\source\repos\Ej3_RamonAlaniz\Ej3_RamonAlaniz\bin\Debug\Ej3_RamonAlaniz.pdb
+C:\Users\Dell Inspiron\source\repos\Ej3_RamonAlaniz\Ej3_RamonAlaniz\obj\Debug\Ej3_RamonAlaniz.csproj.AssemblyReference.cache
+C:\Users\Dell Inspiron\source\repos\Ej3_RamonAlaniz\Ej3_RamonAlaniz\obj\Debug\Ej3_RamonAlaniz.csproj.CoreCompileInputs.cache
+C:\Users\Dell Inspiron\source\repos\Ej3_RamonAlaniz\Ej3_RamonAlaniz\obj\Debug\Ej3_RamonAlaniz.exe
+C:\Users\Dell Inspiron\source\repos\Ej3_RamonAlaniz\Ej3_RamonAlaniz\obj\Debug\Ej3_RamonAlaniz.pdb
